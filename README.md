@@ -46,6 +46,10 @@ This repository has the following Projects.
 - [Youtube Searching Script](https://github.com/Shahrayar123/Python-Projects/tree/master/Youtube%20Searching%20Script)
 - [pokemone_battle](https://github.com/Shahrayar123/Python-Projects/tree/master/pokemone_battle.py)
 - [Text-to-Speech](https://github.com/Shahrayar123/Python-Projects/tree/master/Text-to-Speech)
+### Data Scienece and ML projects
+- [Movie Recommendation](https://github.com/Hashirama1Senju/Python-Projects/tree/master/Movie%20recommendation)
+- [Forest Fire Prediction](https://github.com/Hashirama1Senju/Python-Projects/tree/master/Forest%20Fire%20prediction) 
+- [Sales Forecasting](https://github.com/Hashirama1Senju/Python-Projects/tree/master/Sales%20prediction) 
 
 
 ## Contribution
